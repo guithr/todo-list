@@ -91,3 +91,9 @@ form button:hover{
     padding: 0rem 1.5rem;
 }
 
+
+
+.fa-check,
+.fa-trash{
+    pointer-events: none;
+}
